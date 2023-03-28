@@ -1,3 +1,5 @@
+
+```
 10.10.11.189  precious.htb
 
 python3 -m http.server
@@ -50,3 +52,4 @@ https://www.hackthebox.com/achievement/machine/336799/513
 
 
 https://blog.stratumsecurity.com/2021/06/09/blind-remote-code-execution-through-yaml-deserialization/
+```
