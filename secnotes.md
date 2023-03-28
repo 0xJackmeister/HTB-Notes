@@ -24,3 +24,4 @@ psexec.py administrator:'u6!4ZwgwOM#^OBf#Nwnh'@10.10.10.97
 
 
 ```
+https://www.hackthebox.com/achievement/machine/336799/151
