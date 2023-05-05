@@ -20,5 +20,8 @@ ls -l /etc/nginx/sites-enabled
 soc-player.soccer.htb
 
 register and login and you will see a ticket checking , likely using sql
+
+#can be confimed by checking source code
+var ws = new WebSocket("ws://soc-player.soccer.htb:9091");
  ```
  https://www.hackthebox.com/achievement/machine/336799/519
