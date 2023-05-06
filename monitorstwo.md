@@ -54,7 +54,7 @@ whoami root
 https://www.hackthebox.com/achievement/machine/336799/539
 
 
-![Jackmeister](https://www.hackthebox.eu/badge/image/336799)
+
 
 
 
