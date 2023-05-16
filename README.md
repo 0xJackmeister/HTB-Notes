@@ -152,6 +152,7 @@ Seventeen[Linux]
 Scrambled[Linux]
 
 ## List of PWK/OSCP boxes from the previous versions of the course
+```
 Kioptrix: Level 1 (#1): https://www.vulnhub.com/entry/kioptrix-level-1-1,22/
 Kioptrix: Level 1.1 (#2): https://www.vulnhub.com/entry/kioptrix-level-11-2,23/
 Kioptrix: Level 1.2 (#3): https://www.vulnhub.com/entry/kioptrix-level-12-3,24/
@@ -214,3 +215,4 @@ Glasglow 1.1: https://www.vulnhub.com/entry/glasgow-smile-11,491/
 DevGuru 1: https://www.vulnhub.com/entry/devguru-1,620/
 Alpha 1: https://www.vulnhub.com/entry/alfa-1,655/
 Hack Me Please: https://www.vulnhub.com/entry/hack-me-please-1,731/
+```
