@@ -2,6 +2,7 @@
 
 # To-Do List
 ## Linux Boxes:
+```
 Lame
 brainfuck
 shocker
@@ -59,9 +60,10 @@ Meta
 Paper
 Talkative
 Seventeen
-
+```
 
 ## Windows Boxes:
+```
 legacy
 Blue
 Devel
@@ -95,8 +97,10 @@ Acute
 Timelapse
 StreamIO
 Scrambled
+```
 
 ## More challenging than OSCP, but good practice:
+```
 Jeeves [Windows]
 Bart   [Windows]
 Tally  [Windows]
@@ -136,9 +140,10 @@ Stacked [Linux]
 Backdoor[Linux]
 Search[Windows]
 Undetected[Linux] (More like an IR box)
-
+```
 
 ## Updated Boxes for October 2022: 
+```
 Backdoor[Linux]
 Search[Windows]
 Pandora[Linux]
@@ -150,6 +155,7 @@ Talkative[Linux]
 StreamIO[Windows]
 Seventeen[Linux]
 Scrambled[Linux]
+```
 
 ## List of PWK/OSCP boxes from the previous versions of the course
 ```
