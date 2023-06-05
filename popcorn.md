@@ -1,4 +1,4 @@
-LESSON LEARNED: 
+**LESSONS LEARNED : **
 - Always use gobuster medium and common , do note on this
 - If Creating your own torrent file wont do , just download real one
 - Always check for files especially user home files
