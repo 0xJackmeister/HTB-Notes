@@ -3,12 +3,12 @@
 # To-Do List
 ## Linux Boxes:
 ```
-Lame
+Lame ✔️
 brainfuck
-shocker
-bashed
-nibbles
-beep
+shocker ✔️
+bashed ✔️
+nibbles ✔️
+beep ✔️
 cronos
 nineveh
 sense
@@ -40,18 +40,18 @@ Doctor
 SneakyMailer
 Passage
 Luanne
-Time
+Time 
 Ready
 Delivery
-Ophiuchi
+Ophiuchi ✔️
 ScriptKiddie
 Armageddon
-Knife
+Knife ✔️
 Pit
 Seal
-Previse 
+Previse  ✔️
 Forge
-Horizontall
+Horizontall ✔️
 Shibboleth
 Writer
 Precise
@@ -64,26 +64,26 @@ Seventeen
 
 ## Windows Boxes:
 ```
-legacy
-Blue
-Devel
-Optimum
-Bastard
-granny
-Arctic
-grandpa
+legacy ✔️
+Blue ✔️
+Devel ✔️
+Optimum ✔️
+Bastard ✔️
+granny ✔️
+Arctic ✔️
+grandpa ✔️
 silo
 bounty
 jerry
 conceal
 chatterbox
-Forest
+Forest ✔️
 BankRobber
-secnotes
-Bastion
+secnotes ✔️
+Bastion ✔️
 Buff
 Servmon
-Active
+Active ✔️
 Remote
 Fuse
 Omni
@@ -92,9 +92,9 @@ Love
 Intelligence
 APT
 Object
-Support
+Support ✔️
 Acute
-Timelapse
+Timelapse ✔️
 StreamIO
 Scrambled
 ```
