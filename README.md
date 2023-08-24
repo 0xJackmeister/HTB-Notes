@@ -9,7 +9,7 @@ shocker ✔️
 bashed ✔️
 nibbles ✔️
 beep ✔️
-cronos
+cronos ✔️
 nineveh
 sense
 solidstate
